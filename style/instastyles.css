@@ -1,0 +1,192 @@
+.home{
+    display: flex;
+    
+    
+    background-color:#fafafa;
+    
+}
+.box{
+    width: 20rem;
+    background-color: #f0f1f5;
+
+    position: relative;
+    top: 3rem;
+    margin-bottom: 13rem;
+    
+    padding-left: 25px;
+    flex-direction: column-reverse;
+}
+.mobile-pic{
+    margin-right: 4rem;
+    flex-direction: row-reverse;
+}
+.insta-front-pic{
+    width: 400px;
+    padding-left: 20rem;
+    padding-top: 20px;
+}
+
+.insta-name{
+    width: 12rem;
+    padding-top: 2rem;
+    padding-left: 3rem;
+
+}
+.search-bar{
+    width: 17rem;
+    padding: 0.5rem;
+    margin-top: 2.5rem;
+    margin-bottom: .35rem;
+    
+}
+.search-bar1{
+    width: 17rem;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+
+    
+}
+.login{
+    background-color: rgb(0, 149, 246);
+    border-color: rgba(43, 166, 227, 0.892) ;
+    width: 18.3rem;
+    height: 2rem;
+    border-radius: .5rem;
+    color: white;
+    margin-bottom:2rem ;
+    
+    
+}
+.or{
+    color: #8e8e8e;
+    padding-left: 8.5rem;
+    
+}
+
+
+.facebook{
+    width: 17px;
+    padding-top:1.4rem ;
+    padding-left: 4.1rem;
+
+}
+.text{
+    font-family: Roboto,Arial;
+    
+    display: flex;
+    margin-top: -20px;
+    margin-left: 5.5rem;
+    color: #385185;
+
+}
+.text:hover{
+    text-decoration: underline;
+}
+.text2{
+    margin-left: 4.5rem;
+    font-family: roboto,Arial;
+    font-weight: 400;
+    font-size: small;
+}
+.text2:hover{
+    text-decoration: underline;
+
+}
+.sub-box{
+    text-align: center;
+    background-color: #f0f1f5;
+    width: 22rem;
+    height: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: -9rem
+}
+
+.buttonfacebook{
+    border: none;
+    color: #385185;
+    font-weight: 900;
+}
+.buttonforgot{
+    border: none;
+    padding-bottom: 1rem;
+
+}
+.button-signup{
+    color: #385185;
+    font-weight: 900;
+    width: 5rem;
+    margin-left: 9rem;
+    border: none;
+}
+.get{
+    margin-left: 9rem;
+}
+.googleplay{
+width: 11rem;
+}
+.windows{
+width: 10rem;
+height: 3.4rem;
+border-radius: .5rem;
+
+}
+.bottom-text{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    color: #8e8e8e;
+    font-family: roboto,Arial;
+    font-size: 75%;
+    margin-top: 3rem;
+   
+}
+.a{
+   margin-right: 2rem;
+}
+.b{
+    margin-right: 2rem;
+}
+.c{
+
+    margin-right: 2rem;
+}
+.d{
+
+    margin-right: 1rem;
+ }
+ .e{
+
+
+    margin-right: 1rem;
+ }
+ .f{
+
+    margin-right: 1rem;
+ }
+ .g{
+
+    margin-right: 1rem;
+ }
+ .h{
+
+    margin-right: 1rem;
+ }
+ .i{
+
+    margin-right: 1rem;
+ }
+ 
+ .J{
+
+    margin-right: 1rem;
+ }
+ .k{
+    
+    margin-right: 1rem;
+ }
+.l{
+    
+    margin-right: 1rem;
+}
